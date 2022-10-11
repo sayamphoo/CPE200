@@ -1,0 +1,20 @@
+[
+   {
+      "id": 0,
+      "picture": "https://www.techiedelight.com/wp-content/uploads/2016/11/Kruskal-1.png",
+      "branch": [10, 50, 30, 40, 80, 15],
+      "mst": [10, 15, 50, 40]
+   },
+   {
+      "id": 1,
+      "picture": "https://www.techiedelight.com/wp-content/uploads/2016/11/Kruskal-1.png",
+      "branch": [10, 50, 30, 40, 80, 15],
+      "mst": [10, 15, 50, 40]
+   },
+   {
+      "id": 2,
+      "picture": "https://www.techiedelight.com/wp-content/uploads/2016/11/Kruskal-1.png",
+      "branch": [10, 50, 30, 40, 80, 15],
+      "mst": [10, 15, 50, 40]
+   }
+]
