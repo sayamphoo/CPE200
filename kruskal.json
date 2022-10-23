@@ -1,0 +1,11 @@
+[
+   {
+      "id": 0,
+      "time": 130,
+      "node": "./img/node_1.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_1.svg",
+      "branch": ["10", "20A","10A", "20"],
+      "mst_branch": ["10", "20"],
+      "many_events": true
+   }
+]
