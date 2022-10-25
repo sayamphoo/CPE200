@@ -1,19 +1,110 @@
 [
    {
       "id": 0,
-      "time": 130,
+      "time": 200,
       "node": "./img/node_1.svg",
       "minimum_spanning_tree": "./img/minimum_spanning_tree_1.svg",
-      "branch": ["10", "20A","10A", "20"],
-      "mst_branch": ["10", "20"],
-      "many_events": true
-   },{
+      "branch": ["10","20","14","18","9","13","4","2","3","8","7","16","15","6","11","1"],
+      "mst_branch": ["1","2","3","4","6","9","10","11"],
+      "many_events": false
+   },
+   {
       "id": 1,
-      "time": 130,
-      "node": "./img/node_1.svg",
-      "minimum_spanning_tree": "./img/minimum_spanning_tree_1.svg",
-      "branch": ["10", "20A","10A", "20"],
-      "mst_branch": ["10", "20"],
+      "time": 230,
+      "node": "./img/node_2.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_2.svg",
+      "branch": ["9", "11","15","8","19","4","10","5","7","17","12","14","13","18","1","2","20","16","6"],
+      "mst_branch": ["1", "2","4","5","6","7","8","9","12"],
+      "many_events": false
+   },
+   {
+      "id": 2,
+      "time": 210,
+      "node": "./img/node_3.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_3.svg",
+      "branch": ["18", "3A","6","5","10","12","14","11","16","17","4","9","2","19","7","8","1","3B"],
+      "mst_branch": ["1", "2","3A","3B","4","5","7","8","12"],
+      "many_events": false
+   },
+   {
+      "id": 3,
+      "time": 180,
+      "node": "./img/node_4.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_4.svg",
+      "branch": ["10", "20","5","17","13","4","15","2","19","3","6"],
+      "mst_branch": ["2", "3","4","5","10","13"],
+      "many_events": false
+   },
+   {
+      "id": 4,
+      "time": 180,
+      "node": "./img/node_5.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_5.svg",
+      "branch": ["7", "4","20","3","16","5","14","18","6","21","11"],
+      "mst_branch": ["3", "4","5","6","11","14"],
+      "many_events": false
+   },
+   {
+      "id": 5,
+      "time": 180,
+      "node": "./img/node_6.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_6.svg",
+      "branch": ["12B", "14A","11B","13","20","12A","17","15","18","14B","16","11A"],
+      "mst_branch": ["11", "11","12","12","14","16"],
       "many_events": true
+   },
+   {
+      "id": 6,
+      "time": 180,
+      "node": "./img/node_7.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_7.svg",
+      "branch": ["9", "21B","15","16","19","7","22","21A","14","11","12","13"],
+      "mst_branch": ["7", "9","11","12","13","21B"],
+      "many_events": false
+   },
+   {
+      "id": 7,
+      "time": 200,
+      "node": "./img/node_8.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_8.svg",
+      "branch": ["2", "12","7","8","16","9","20","4","3","5","19","14","15","20","21","11"],
+      "mst_branch": ["2", "3","4","5","7","11","12"],
+      "many_events": false
+   },
+   {
+      "id": 8,
+      "time": 90,
+      "node": "./img/node_9.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_9.svg",
+      "branch": ["9", "16B","16A","15","19"],
+      "mst_branch": ["9","15", "16B"],
+      "many_events": false
+   },
+   {
+      "id": 9,
+      "time": 90,
+      "node": "./img/node_10.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_10.svg",
+      "branch": ["4", "5A","3","5B"],
+      "mst_branch": ["3", "4","5A"],
+      "many_events": false
+   },
+   {
+      "id": 10,
+      "time": 120,
+      "node": "./img/node_11.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_11.svg",
+      "branch": ["9.69", "6.66","16.69","16.66","9.99","9.66"],
+      "mst_branch": ["6.66", "9.66","9.69","16.66"],
+      "many_events": false
+   },
+   {
+      "id": 11,
+      "time": 130,
+      "node": "./img/node_12.svg",
+      "minimum_spanning_tree": "./img/minimum_spanning_tree_12.svg",
+      "branch": ["16.66", "6.66","6.96","6.67","6.99","9.99","9.98"],
+      "mst_branch": ["6.66", "6.67","6.96","6.99"],
+      "many_events": false
    }
 ]
